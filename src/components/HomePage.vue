@@ -147,7 +147,11 @@
             <div class="text-centent">
               <p>오 대박! 라이브 리뷰 오늘 올라온대요? 챙겨봐야겠다</p>
               <div class="reaction-sction">
-                <p><b-icon icon="heart"></b-icon>&nbsp;5</p>
+                <p class="m-0 d-flex">
+                  <span class="reaction-icon">
+                    <b-icon icon="heart"></b-icon>&nbsp;<small>5</small></span
+                  >
+                </p>
               </div>
             </div>
           </div>
