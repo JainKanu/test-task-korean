@@ -16,11 +16,9 @@ export default {
 </script>
 
 <style>
-@import "./style/style.scss";
+@import "./style/style.css";
 #app {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
 }
 </style>

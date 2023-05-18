@@ -30,7 +30,7 @@
         </div>
       </div>
       <div class="post-centent d-flex justify-content-center">
-        <div class="text-centent">
+        <div>
           <strong>지난 월요일에 했던 이벤트 중 가장 괜찮은 상품 뭐야?</strong>
           <div class="mt-3">
             <p>
@@ -104,7 +104,7 @@
           <b-icon icon="three-dots"></b-icon>
         </div>
       </div>
-      <div class="comment-centent d-flex justify-content-center">
+      <div class="comment-centent">
         <div class="text-centent">
           <p>
             어머 제가 있던 테이블이 제일 반응이 좋았나보네요🤭 우짤래미님도
@@ -144,7 +144,7 @@
             </div>
           </div>
           <div class="reply-centent">
-            <div class="text-centent">
+            <div>
               <p>오 대박! 라이브 리뷰 오늘 올라온대요? 챙겨봐야겠다</p>
               <div class="reaction-sction">
                 <p class="m-0 d-flex">

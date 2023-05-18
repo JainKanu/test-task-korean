@@ -46,71 +46,67 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    .bi-chevron-left {
-        color: #313b49;
-    }
+}
+.bi-chevron-left {
+    color: #313b49;
 }
 .profile-heading {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
-    .bi-check-circle-fill {
-        color: #01b99f;
-    }
-    .succes-badge {
-        display: flex;
-        align-items: center;
-        padding: 6px 12px;
-        background: #01b99f;
-        border-radius: 999px;
-        color: #ffffff;
-    }
+}
+.bi-check-circle-fill {
+    color: #01b99f;
+}
+.succes-badge {
+    display: flex;
+    align-items: center;
+    padding: 6px 12px;
+    background: #01b99f;
+    border-radius: 999px;
+    color: #ffffff;
 }
 .tags {
     display: flex;
     width: 100%;
     flex-wrap: wrap;
     justify-content: center;
-    .light-badge {
-        display: flex;
-        align-items: center;
-        padding: 5px 12px;
-        background: #f7f8fa;
-        border: 0.5px solid #ced3de;
-        border-radius: 999px;
-        margin-right: 8px;
-        margin-bottom: 8px;
-        font-family: "Roboto";
-        font-style: normal;
-        font-weight: 500;
-        font-size: 12px;
-        line-height: 100%;
-        color: #5a6b87;
-    }
+}
+.light-badge {
+    display: flex;
+    align-items: center;
+    padding: 5px 12px;
+    background: #f7f8fa;
+    border: 0.5px solid #ced3de;
+    border-radius: 999px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 100%;
+    color: #5a6b87;
 }
 .post-image {
     margin-bottom: 25px;
 }
-.reaction-sction {
-    .reaction-icon {
-        font-size: 18px;
-        margin-right: 10px;
-        display: flex;
-        align-items: center;
-    }
+.reaction-icon {
+    font-size: 18px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
 }
-.comment-centent {
-    .text-centent {
-        margin-left: 50px;
-    }
+.text-centent {
+    margin-left: 50px;
 }
 .comment-form {
     height: 48px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    .bi-image {
-        color: #919eb6;
-    }
+}
+.bi-image {
+    color: #919eb6;
 }
